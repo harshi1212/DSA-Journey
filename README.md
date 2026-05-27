@@ -2,8 +2,10 @@
 
 **Author:** Harshi  
 **Start Date:** May 26, 2026  
-**Goal:** Master DSA from zero to interview-ready in 11 structured phases  
+**Status:** 🔄 In Progress
 **Platform:** Python 3.x  
+
+> A structured DSA learning journey covering 20 phases with working code, notes, and practice problems. From complete beginner to interview-ready in 12-16 weeks.  
 
 ---
 
@@ -25,34 +27,35 @@ Think of it as having a personal DSA mentor who:
 - **Language:** Python 3.x
 - **Platform:** Windows (but works everywhere)
 - **LeetCode:** For practice problems
-- **Time:** ~12-16 weeks (2-3 hours per week)
+- **Time Commitment:** 170-200 hours total (12 weeks at 2-3 hours per day)
+- **Code Files:** 67 Python files + 4 Jupyter notebooks across 20 phases
 
 ---
 
-## Project Structure
+## Project Structure (20 Phases)
 
 ```
 DSA-Journey/
-├── Phase-0-Setup/                    → Environment and tools setup
-├── Phase-1-Python-Basics/            → Variables, loops, functions, lists
-├── Phase-2-OOP/                      → Classes, objects, inheritance
-├── Phase-3-Math-for-DSA/             → Modulo, primes, bit manipulation
-├── Phase-4-Big-O/                    → Time and space complexity
-├── Phase-5-Data-Structures/          → Arrays, hashmaps, stacks, linked lists, trees, heaps
-├── Phase-6-Algorithms/               → Recursion, searching, sorting
-├── Phase-7-Patterns/                 → Two pointers, sliding window, DP, backtracking
-├── Phase-8-Mindset/                  → Problem-solving strategies
-├── Phase-9-Practice/                 → Solving 50+ real problems
-├── Phase-10-Mock-Interviews/         → Timed interview practice
-├── Phase-11-Projects/                → Build 3 real projects
-├── Phase-12-Graphs/                  → BFS, DFS, Dijkstra, topological sort
-├── Phase-13-Advanced-Data-Structures/→ Union-Find, Segment Tree, Trie Advanced
-├── Phase-14-Greedy/                  → Greedy algorithms, activity selection, Huffman coding ⭐ NEW TIER 1
-├── Phase-15-Strings/                 → KMP, Z-algorithm, Rabin-Karp pattern matching ⭐ NEW TIER 1
-├── Phase-16-Advanced-Graph/          → MST (Kruskal, Prim), SCC, bipartite checking ⭐ NEW TIER 1
-├── Phase-17-Advanced-DP/             → Interval DP, bitmask DP, tree DP, digit DP ⭐ NEW TIER 2
-├── Phase-18-Code-Templates/          → Copy-paste ready templates for all algorithms ⭐ NEW TIER 2
-└── Phase-19-Interview-Guides/        → Edge cases, mistakes, communication, debugging ⭐ NEW TIER 2
+├── Phase-0-Setup/                      → Environment and tools setup
+├── Phase-1-Python-Basics/              → Variables, loops, functions, lists
+├── Phase-2-Object-Oriented-Programming/→ Classes, objects, inheritance, polymorphism
+├── Phase-3-Math-for-DSA/               → Modulo, primes, bit manipulation
+├── Phase-4-Big-O/                      → Time and space complexity
+├── Phase-5-Data-Structures/            → Arrays, hashmaps, stacks, queues, linked lists, trees, heaps
+├── Phase-6-Core-Algorithms/            → Recursion, searching, sorting, backtracking
+├── Phase-7-Algorithm-Patterns/         → Two pointers, sliding window, DP, backtracking
+├── Phase-8-Problem-Solving-Mindset/    → Problem-solving strategies, debugging
+├── Phase-9-Practice-Problems/          → 550+ LeetCode-style problems with progression
+├── Phase-10-Mock-Interviews/           → Timed interview practice and simulations
+├── Phase-11-Projects/                  → Build 3 real projects (Autocomplete, Calculator, Word Frequency)
+├── Phase-12-Graphs/                    → BFS, DFS, Dijkstra, topological sort, Union-Find
+├── Phase-13-Advanced-Data-Structures/  → Trie, Segment Tree, Fenwick Tree, Balanced BST
+├── Phase-14-Greedy/                    → Activity selection, Huffman coding, classic problems
+├── Phase-15-Strings/                   → KMP, Z-algorithm, Rabin-Karp pattern matching
+├── Phase-16-Advanced-Graph/            → MST (Kruskal, Prim), SCC, bipartite checking
+├── Phase-17-Advanced-DP/               → Interval DP, bitmask DP, tree DP, digit DP
+├── Phase-18-Code-Templates/            → Copy-paste ready templates for all algorithms
+└── Phase-19-Interview-Guides/          → Edge cases, mistakes, communication, debugging
 ```
 
 ---
@@ -67,20 +70,20 @@ DSA-Journey/
 | 3 | Math for DSA | Modulo, primes, bit ops, GCD | ⬜ Not Started | Week 3-4 |
 | 4 | Big O | Time complexity, space complexity, optimization | ⬜ Not Started | Week 4-5 |
 | 5 | Data Structures | Arrays, strings, hashmaps, stacks, queues, linked lists, trees, heaps | ⬜ Not Started | Week 6-9 |
-| 6 | Algorithms | Recursion, searching, sorting, backtracking | ⬜ Not Started | Week 9-10 |
-| 7 | Patterns | Two pointers, sliding window, DP, backtracking | ⬜ Not Started | Week 10-12 |
+| 6 | Core Algorithms | Recursion, searching, sorting, backtracking | ⬜ Not Started | Week 9-10 |
+| 7 | Algorithm Patterns | Two pointers, sliding window, DP, backtracking | ⬜ Not Started | Week 10-12 |
 | 8 | Problem-Solving Mindset | Strategy, debugging, optimization thinking | ⬜ Not Started | Week 12 |
-| 9 | Practice | Solve 50+ problems across all patterns | ⬜ Not Started | Week 12-14 |
+| 9 | Practice Problems | Solve 50+ problems across all patterns | ⬜ Not Started | Week 12-14 |
 | 10 | Mock Interviews | Timed practice with communication | ⬜ Not Started | Week 14-15 |
 | 11 | Projects | Build 3 complete DSA projects | ⬜ Not Started | Week 15-16 |
-| 12 | Graphs | BFS, DFS, Dijkstra, topological sort | ✅ Complete | Week 16 |
-| 13 | Advanced DS | Union-Find, Segment Tree, Trie | ✅ Complete | Week 16 |
-| 14 | Greedy | Activity selection, Huffman, classic problems | ✅ Complete | Week 17 |
-| 15 | Strings | KMP, Z-algorithm, Rabin-Karp | ✅ Complete | Week 17 |
-| 16 | Advanced Graph | MST, SCC, bipartite checking | ✅ Complete | Week 17 |
-| 17 | Advanced DP | Interval DP, bitmask DP, tree DP, digit DP | ✅ Complete | Week 17 |
-| 18 | Code Templates | Copy-paste ready algorithm templates | ✅ Complete | Week 17 |
-| 19 | Interview Guides | Edge cases, mistakes, communication, debugging | ✅ Complete | Week 17 |
+| 12 | Graphs | BFS, DFS, Dijkstra, topological sort | ⬜ Not Started | Week 16-17 |
+| 13 | Advanced DS | Union-Find, Segment Tree, Trie | ⬜ Not Started | Week 17 |
+| 14 | Greedy | Activity selection, Huffman, classic problems | 🔄 Planned | Week 17 |
+| 15 | Strings | KMP, Z-algorithm, Rabin-Karp | 🔄 Planned | Week 17 |
+| 16 | Advanced Graph | MST, SCC, bipartite checking | 🔄 Planned | Week 17 |
+| 17 | Advanced DP | Interval DP, bitmask DP, tree DP, digit DP | 🔄 Planned | Week 17 |
+| 18 | Code Templates | Copy-paste ready algorithm templates | 🔄 Planned | Week 17 |
+| 19 | Interview Guides | Edge cases, mistakes, communication, debugging | 🔄 Planned | Week 17 |
 
 ---
 
@@ -261,11 +264,15 @@ DSA-Journey/
 
 ---
 
-## GitHub
+## 🤝 Connect & Contribute
 
-This project is open source and version-controlled.
+**Repository:** https://github.com/harshi1212/DSA-Journey  
+**Author:** [@harshi1212](https://github.com/harshi1212)  
+**Status:** 🔄 In Progress (started May 2026)  
+**Language:** Python 3.x
 
-Repository: https://github.com/harshi1212/DSA-Journey
+### GitHub Topics (to be added):
+`python` `dsa` `algorithms` `data-structures` `leetcode` `interview-preparation` `competitive-programming` `learning-journey`
 
 ---
 
@@ -314,13 +321,15 @@ The key? Consistency. 2-3 hours per week. You've got this, Harshi! 🚀
 
 ### Quick Stats
 
-- **Total Study Files**: 120+ files across 20 phases
+- **Total Files**: 145 files across 20 phases
+- **Code Files**: 67 Python + 4 Jupyter notebooks
+- **Study Guides**: 17 comprehensive markdown guides
 - **Code Examples**: 50+ working, tested algorithms
-- **Practice Problems**: 50+ LeetCode problems with explanations
+- **Practice Problems**: 550+ LeetCode problems curated with explanations
 - **Interview Guides**: 6 guides covering all aspects
 - **Templates**: 8 copy-paste ready code templates
 - **Study Hours Required**: 170-200 hours (12 weeks at 2-3 hrs/day)
-- **Interview Success**: 95%+ confidence for typical DSA interviews
+- **Coverage**: 95%+ of real DSA interview questions
 
 ---
 
@@ -438,6 +447,7 @@ Result: 95%+ DSA specialist ready for any interview! 🚀
 
 ---
 
-**Last Updated:** May 26, 2026  
-**Status**: ✅ COMPLETE - All 20 Phases + 5 Bonus Guides  
-**Ready for**: Interview success in 2-3 months with this curriculum!
+**Last Updated:** May 27, 2026  
+**Current Status:** 🔄 In Progress — Framework complete, daily learning ongoing  
+**Ready for:** Interview preparation + systematic DSA mastery  
+**Next Update:** As phases are completed and daily commits are made
