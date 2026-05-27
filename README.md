@@ -447,6 +447,19 @@ Result: 95%+ DSA specialist ready for any interview! 🚀
 
 ---
 
+## 📄 License
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+**What this means:**
+- ✅ You can use this for personal learning
+- ✅ You can modify and build upon this
+- ✅ You can share it with others
+- ✅ You can use it commercially
+- ⚠️ Must include copyright and license notice
+
+---
+
 **Last Updated:** May 27, 2026  
 **Current Status:** 🔄 In Progress — Framework complete, daily learning ongoing  
 **Ready for:** Interview preparation + systematic DSA mastery  
