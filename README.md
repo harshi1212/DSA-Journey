@@ -293,7 +293,7 @@ DSA-Journey/
 
 You're about to transform from "I don't know DSA" to "I can solve DSA problems and explain them in interviews."
 
-The key? Consistency. 2-3 hours per week. You've got this, Harshi! 🚀
+The key? Consistency. 2-3 hours per day. You've got this, Harshi! 🚀
 
 ---
 
@@ -456,7 +456,7 @@ Week 7-8:   Core Patterns (Two Pointers, Sliding Window, DP)
 Week 9-10:  Advanced Patterns + Trees
 Week 11-12: Graphs + Advanced Topics + Interview Prep
 
-Result: 95%+ DSA specialist ready for any interview! 🚀
+Result: Interview-ready with strong DSA foundations 🚀
 ```
 
 ---
