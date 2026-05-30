@@ -1,5 +1,18 @@
 # DSA Journey - Complete Data Structures & Algorithms Learning Path
 
+---
+
+> 🐍 **Python 3.x** · 📚 **20 Phases** · 
+> 🎯 **Beginner to Interview-Ready** · 
+> 🔄 **In Progress — Started May 2026**
+
+[![GitHub](https://img.shields.io/badge/GitHub-harshi1212-181717?style=flat&logo=github)](https://github.com/harshi1212)
+[![Language](https://img.shields.io/badge/Language-Python_3.x-3776AB?style=flat&logo=python)](https://python.org)
+[![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=flat)](https://github.com/harshi1212/DSA-Journey)
+[![LeetCode](https://img.shields.io/badge/Practice-LeetCode-FFA116?style=flat&logo=leetcode)](https://leetcode.com)
+
+---
+
 **Author:** Harshi  
 **Start Date:** May 26, 2026  
 **Status:** 🔄 In Progress
@@ -27,7 +40,7 @@ Think of it as having a personal DSA mentor who:
 - **Language:** Python 3.x
 - **Platform:** Windows (but works everywhere)
 - **LeetCode:** For practice problems
-- **Time Commitment:** 170-200 hours total (12 weeks at 2-3 hours per day)
+- **Time:** 12-18 weeks (2-3 hours per day = 170-200 hours total)
 - **Code Files:** 67 Python files + 4 Jupyter notebooks across 20 phases
 
 ---
@@ -63,27 +76,27 @@ DSA-Journey/
 ## Progress Tracker
 
 | Phase | Topic | Topics Covered | Status | Target Date |
-|-------|-------|--------|--------|-------------|
+|-------|-------|----------------|--------|-------------|
 | 0 | Setup | Tools, GitHub, Python env | ⬜ Not Started | Week 1 |
-| 1 | Python Basics | Variables, loops, functions, data types | ⬜ Not Started | Week 2 |
-| 2 | OOP | Classes, objects, inheritance, polymorphism | ⬜ Not Started | Week 3 |
+| 1 | Python Basics | Variables, loops, functions | ⬜ Not Started | Week 2 |
+| 2 | OOP | Classes, objects, inheritance | ⬜ Not Started | Week 3 |
 | 3 | Math for DSA | Modulo, primes, bit ops, GCD | ⬜ Not Started | Week 3-4 |
-| 4 | Big O | Time complexity, space complexity, optimization | ⬜ Not Started | Week 4-5 |
-| 5 | Data Structures | Arrays, strings, hashmaps, stacks, queues, linked lists, trees, heaps | ⬜ Not Started | Week 6-9 |
-| 6 | Core Algorithms | Recursion, searching, sorting, backtracking | ⬜ Not Started | Week 9-10 |
-| 7 | Algorithm Patterns | Two pointers, sliding window, DP, backtracking | ⬜ Not Started | Week 10-12 |
-| 8 | Problem-Solving Mindset | Strategy, debugging, optimization thinking | ⬜ Not Started | Week 12 |
-| 9 | Practice Problems | Solve 50+ problems across all patterns | ⬜ Not Started | Week 12-14 |
+| 4 | Big O | Time and space complexity | ⬜ Not Started | Week 4-5 |
+| 5 | Data Structures | Arrays, hashmaps, stacks, trees, heaps | ⬜ Not Started | Week 6-9 |
+| 6 | Algorithms | Recursion, searching, sorting | ⬜ Not Started | Week 9-10 |
+| 7 | Patterns | Two pointers, sliding window, DP, backtracking | ⬜ Not Started | Week 10-12 |
+| 8 | Problem-Solving Mindset | Strategy, debugging | ⬜ Not Started | Week 12 |
+| 9 | Practice | Solve 50+ problems across all patterns | ⬜ Not Started | Week 12-14 |
 | 10 | Mock Interviews | Timed practice with communication | ⬜ Not Started | Week 14-15 |
 | 11 | Projects | Build 3 complete DSA projects | ⬜ Not Started | Week 15-16 |
-| 12 | Graphs | BFS, DFS, Dijkstra, topological sort | ⬜ Not Started | Week 16-17 |
-| 13 | Advanced DS | Union-Find, Segment Tree, Trie | ⬜ Not Started | Week 17 |
-| 14 | Greedy | Activity selection, Huffman, classic problems | 🔄 Planned | Week 17 |
-| 15 | Strings | KMP, Z-algorithm, Rabin-Karp | 🔄 Planned | Week 17 |
-| 16 | Advanced Graph | MST, SCC, bipartite checking | 🔄 Planned | Week 17 |
-| 17 | Advanced DP | Interval DP, bitmask DP, tree DP, digit DP | 🔄 Planned | Week 17 |
-| 18 | Code Templates | Copy-paste ready algorithm templates | 🔄 Planned | Week 17 |
-| 19 | Interview Guides | Edge cases, mistakes, communication, debugging | 🔄 Planned | Week 17 |
+| 12 | Graphs | BFS, DFS, Dijkstra, topological sort | ⬜ Not Started | Week 16 |
+| 13 | Advanced DS | Union-Find, Segment Tree, Trie | ⬜ Not Started | Week 16-17 |
+| 14 | Greedy | Activity selection, Huffman coding | ⬜ Not Started | Week 17 |
+| 15 | Strings | KMP, Z-algorithm, Rabin-Karp | ⬜ Not Started | Week 17 |
+| 16 | Advanced Graph | MST, SCC, bipartite checking | ⬜ Not Started | Week 17-18 |
+| 17 | Advanced DP | Interval DP, bitmask DP, tree DP | ⬜ Not Started | Week 18 |
+| 18 | Code Templates | Copy-paste ready algorithm templates | ⬜ Not Started | Week 18 |
+| 19 | Interview Guides | Edge cases, communication, debugging | ⬜ Not Started | Week 18-19 |
 
 ---
 
@@ -286,11 +299,11 @@ The key? Consistency. 2-3 hours per week. You've got this, Harshi! 🚀
 
 ---
 
-## 📊 Project Complete: Full DSA Curriculum
+## 📊 What This Repo Contains
 
 ### What's Included
 
-**✅ 20 Phases (0-19)** | **✅ 115+ Implementation Files** | **✅ 5 Bonus Study Guides**
+📚 20 Phases (0-19) | 📁 115+ Implementation Files | 📖 17 Study Guides
 
 | Category | Count | Coverage |
 |----------|-------|----------|
@@ -328,7 +341,7 @@ The key? Consistency. 2-3 hours per week. You've got this, Harshi! 🚀
 - **Practice Problems**: 550+ LeetCode problems curated with explanations
 - **Interview Guides**: 6 guides covering all aspects
 - **Templates**: 8 copy-paste ready code templates
-- **Study Hours Required**: 170-200 hours (12 weeks at 2-3 hrs/day)
+- **Study Hours Required**: 170-200 hours total (12-18 weeks at 2-3 hrs/day)
 - **Coverage**: 95%+ of real DSA interview questions
 
 ---
@@ -415,9 +428,10 @@ By end of your journey, you should be able to:
 
 ---
 
-## 🏆 This Curriculum Guarantees
+## � What This Curriculum Covers
 
-- **95%+ DSA coverage**: Covers 95% of real interview questions
+- **Comprehensive coverage**: Covers the most commonly tested 
+  DSA topics in technical interviews
 - **Beginner to expert**: Designed for complete beginners, ends at specialist level
 - **Hands-on learning**: 50+ working code examples, not just theory
 - **Interview-focused**: Every concept tied to interview relevance
@@ -460,7 +474,29 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ---
 
-**Last Updated:** May 27, 2026  
-**Current Status:** 🔄 In Progress — Framework complete, daily learning ongoing  
-**Ready for:** Interview preparation + systematic DSA mastery  
+**Last Updated:** May 2026  
+**Status:** 🔄 In Progress — Content ready, learning begins now  
+**Goal**: Interview-ready after 12-18 weeks of consistent daily practice  
+<!--
+MANUAL STEPS ON GITHUB.COM — do this once, takes 2 min
+
+1. Go to github.com/harshi1212/DSA-Journey
+2. Click the gear icon next to "About" on right side
+3. Add description:
+   "Complete DSA learning journey in Python — 
+    20 phases from zero to interview-ready"
+4. Add your LinkedIn URL in website field
+5. Add these topics one by one:
+   python
+   dsa
+   algorithms
+   data-structures
+   leetcode
+   interview-preparation
+   beginners
+   python3
+   learning-journey
+6. Check "Include in the home page"
+7. Click Save changes
+-->
 **Next Update:** As phases are completed and daily commits are made

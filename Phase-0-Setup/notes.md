@@ -91,7 +91,7 @@ Why: Where professional developers store code.
 
 Go to: github.com
 Click Sign Up
-Use username: harshi1212 (you already picked this!)
+Use username: .....
 ```
 
 ---
