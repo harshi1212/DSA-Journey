@@ -284,9 +284,6 @@ DSA-Journey/
 **Status:** 🔄 In Progress (started May 2026)  
 **Language:** Python 3.x
 
-### GitHub Topics (to be added):
-`python` `dsa` `algorithms` `data-structures` `leetcode` `interview-preparation` `competitive-programming` `learning-journey`
-
 ---
 
 ## Let's Begin!
